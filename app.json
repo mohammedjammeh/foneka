@@ -5,7 +5,7 @@
             "bundler": "metro"
         },
         "plugins": ["expo-router"],
-        "name": "foneka",
-        "slug": "foneka"
+        "name": "foneka-ui",
+        "slug": "foneka-ui"
     }
 }
