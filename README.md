@@ -10,4 +10,4 @@ npx create-expo-app -e with-router
 
 ## 📝 Notes
 
-- [Expo Router: Docs](https://docs.expo.dev/router/introduction/)
+-   [Expo Router: Docs](https://docs.expo.dev/router/introduction/)
